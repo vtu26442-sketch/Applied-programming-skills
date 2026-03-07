@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,13 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
