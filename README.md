@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Sliding Window
 |  |
@@ -121,4 +124,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
