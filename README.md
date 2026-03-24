@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
