@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
 | [1396-design-underground-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/1396-design-underground-system/) | Medium |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1603-design-parking-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
