@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0705-design-hashset](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1396-design-underground-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/1396-design-underground-system/) | Medium |
 ## Greedy
@@ -41,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/0641-design-circular-deque/) | Medium |
+| [0705-design-hashset](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1603-design-parking-system) |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/1472-design-browser-history) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vtu26442-sketch/Applied-programming-skills/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
